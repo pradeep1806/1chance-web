@@ -17,11 +17,11 @@ const Pricing = () => {
           <div>
             <div className="w-full">
               <div
-                className="wow fadeInUp relative z-10 rounded-md bg-white px-8 py-10 shadow-signUp dark:bg-[#1D2144]"
+                className="wow fadeInUp relative z-10 rounded-md bg-white px-8 py-10 shadow-signUp "
                 data-wow-delay=".1s"
               >
                 <div className="mb-4 flex items-center justify-between border-b border-body-color border-opacity-10">
-                  <h3 className="price mb-4 text-3xl font-bold text-black dark:text-white ">
+                  <h3 className="price mb-4 text-3xl font-bold text-black ">
                     Innovation
                   </h3>
                 </div>
@@ -82,11 +82,11 @@ const Pricing = () => {
           <div>
             <div className="w-full">
               <div
-                className="wow fadeInUp relative z-10 rounded-md bg-white px-8 py-10 shadow-signUp dark:bg-[#1D2144]"
+                className="wow fadeInUp relative z-10 rounded-md bg-white px-8 py-10 shadow-signUp"
                 data-wow-delay=".1s"
               >
                 <div className="mb-4 flex items-center justify-between border-b border-body-color border-opacity-10">
-                  <h3 className="price mb-4 text-3xl font-bold text-black dark:text-white ">
+                  <h3 className="price mb-4 text-3xl font-bold text-black">
                   Collaboration
                   </h3>
                 </div>
@@ -144,11 +144,11 @@ const Pricing = () => {
           <div>
             <div className="w-full">
               <div
-                className="wow fadeInUp relative z-10 rounded-md bg-white px-8 py-10 shadow-signUp dark:bg-[#1D2144]"
+                className="wow fadeInUp relative z-10 rounded-md bg-white px-8 py-10 shadow-signUp"
                 data-wow-delay=".1s"
               >
                 <div className="mb-4 flex items-center justify-between border-b border-body-color border-opacity-10">
-                  <h3 className="price mb-4 text-3xl font-bold text-black dark:text-white ">
+                  <h3 className="price mb-4 text-3xl font-bold text-black">
                   Impact
                   </h3>
                 </div>

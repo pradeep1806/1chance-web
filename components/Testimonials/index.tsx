@@ -43,7 +43,7 @@ const Testimonials = () => {
 
         <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-1">
           <div
-            className="wow fadeInUp rounded-md bg-white p-8 shadow-one dark:bg-[#1D2144] lg:px-5 xl:px-8"
+            className="wow fadeInUp rounded-md bg-white p-8 shadow-one lg:px-5 xl:px-8"
             data-wow-delay=".1s"
           >
             <div className="mb-8 flex items-center border-b border-body-color border-opacity-10">
@@ -56,13 +56,13 @@ const Testimonials = () => {
                 />
               </div>
               <div className="w-full">
-                <h5 className="mb-1 text-2xl font-bold text-dark dark:text-white sm:text-2xl md:text-[35px]">
+                <h5 className="mb-1 text-2xl font-bold text-dark  sm:text-2xl md:text-[35px]">
                   MANISHA PAWAR
                 </h5>
                 <a className="mr-6 text-base hover:text-primary" target="blank" href={"https://www.linkedin.com/in/manishapawar6920/"}>View LinkedIn Profile</a>
               </div>
             </div>
-            <p className="mb-8  pb-8 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-10 dark:text-white">
+            <p className="mb-8  pb-8 text-base leading-relaxed text-body-color ">
               Meet Manisha, a seasoned professional with over 27 years of
               diverse work experience, whose journey from the skies to the
               boardroom exemplifies resilience, innovation, and a relentless
@@ -91,7 +91,7 @@ const Testimonials = () => {
           </div>
 
           <div
-            className="wow fadeInUp rounded-md bg-white p-8 shadow-one dark:bg-[#1D2144] lg:px-5 xl:px-8"
+            className="wow fadeInUp rounded-md bg-white p-8 shadow-one lg:px-5 xl:px-8"
             data-wow-delay=".1s"
           >
             <div className="mb-8 flex items-center border-b border-body-color border-opacity-10">
@@ -104,19 +104,19 @@ const Testimonials = () => {
                 />
               </div>
               <div className="w-full">
-                <h5 className="mb-1 text-2xl font-bold text-dark dark:text-white sm:text-2xl md:text-[35px]">
+                <h5 className="mb-1 text-2xl font-bold text-dark  sm:text-2xl md:text-[35px]">
                 SANJAY PAWAR
                 </h5>
                 <a className="mr-6 text-base hover:text-primary" target="blank" href={"https://www.linkedin.com/in/sanjay-pawar-1129172ab/"}>View LinkedIn Profile</a>
               </div>
             </div>
-            <p className="mb-8  pb-8 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-10 dark:text-white">
+            <p className="mb-8  pb-8 text-base leading-relaxed text-body-color  ">
             Introducing Sanjay Pawar, a versatile professional whose journey is a tapestry woven with threads of entertainment, culinary exploration, and global experiences. Born into a lineage adorned with cinematic brilliance, Sanjay's upbringing was immersed in the enchanting world of films, with his parents being prominent figures in the industry and his grandmother, the legendary actress Lalitha Pawar. With roots deeply embedded in entertainment, Sanjay's wanderlust led him to the skies, where his ventures in the airline business took him around the globe, exposing him to diverse cultures and culinary traditions. Drawing inspiration from his travels, Sanjay delved into the culinary arts, mastering cuisines from around the world and ultimately becoming a renowned food consultant. Now, as he joins our team, Sanjay brings with him a wealth of knowledge, creativity, and entrepreneurial flair, poised to make a significant impact as we venture into the innovative realm of apps.
             </p>
           </div>
 
           <div
-            className="wow fadeInUp rounded-md bg-white p-8 shadow-one dark:bg-[#1D2144] lg:px-5 xl:px-8"
+            className="wow fadeInUp rounded-md bg-white p-8 shadow-one lg:px-5 xl:px-8"
             data-wow-delay=".1s"
           >
             <div className="mb-8 flex items-center border-b border-body-color border-opacity-10">
@@ -129,13 +129,13 @@ const Testimonials = () => {
                 />
               </div>
               <div className="w-full">
-                <h5 className="mb-2 text-2xl font-bold text-dark dark:text-white sm:text-2xl md:text-[35px]">
+                <h5 className="mb-2 text-2xl font-bold text-dark  sm:text-2xl md:text-[35px]">
                   JASMEET PAL SINGH
                 </h5>
                <a className="mr-6 text-base hover:text-primary" target="blank" href={"https://www.linkedin.com/in/jasmeetpalsingh/"}>View LinkedIn Profile</a>
               </div>
             </div>
-            <p className="mb-8  pb-8 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-10 dark:text-white">
+            <p className="mb-8  pb-8 text-base leading-relaxed text-body-color  ">
               Jasmeet Pal Singh, a seasoned professional who epitomises the
               ethos of excellence in every endeavour he undertakes. With over 23
               years of enriching experience both in India and abroad, Jasmeet
