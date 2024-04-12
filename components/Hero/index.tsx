@@ -18,7 +18,7 @@ const Hero = () => {
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                 MSJ Art
                 </h1>
-                <p className="mb-12 text-base font-medium !leading-relaxed text-white dark:opacity-90 sm:text-lg md:text-xl">
+                <p className="mb-12 text-base font-medium !leading-relaxed text-white  sm:text-lg md:text-xl">
                 MSJ Art was born out of a passion for the performing arts and a recognition of the need for innovative business solutions in the industry. Founded by a team of artists, entrepreneurs, and industry experts, we bring a unique blend of creativity and business acumen to the table.
                 </p>
                 
